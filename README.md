@@ -5,4 +5,4 @@ Hi 很酷的ISO27001 資安管理系統的風險管理分析系統
 筆者接觸ISO27001有十多年了，直到AI盛行，才有機會將這個概念實現
 
 
-![示意圖](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWEZU_3kjOExrWNy8rz0CrsAphYY9VWsoxSmMizcrgdT6b8u9tolygbl8fIgkuNHgwojn-G1QP9G4ocWbwnO4-QTw3RjETa-YeUjgQ40-AY0QyCD-qjji_jG3Od-MPNpqRuoH7C8mOuHHnAUndBUyHoSnal4-LsxQmnrdLbekLFQWOrKaSMZf4jCwgE-mS/w640-h334/messageImage_1763022874619.jpg))
+![示意圖](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWEZU_3kjOExrWNy8rz0CrsAphYY9VWsoxSmMizcrgdT6b8u9tolygbl8fIgkuNHgwojn-G1QP9G4ocWbwnO4-QTw3RjETa-YeUjgQ40-AY0QyCD-qjji_jG3Od-MPNpqRuoH7C8mOuHHnAUndBUyHoSnal4-LsxQmnrdLbekLFQWOrKaSMZf4jCwgE-mS/w640-h334/messageImage_1763022874619.jpg)
