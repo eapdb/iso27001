@@ -6,3 +6,5 @@ Hi 很酷的ISO27001 資安管理系統的風險管理分析系統
 
 
 ![示意圖](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWEZU_3kjOExrWNy8rz0CrsAphYY9VWsoxSmMizcrgdT6b8u9tolygbl8fIgkuNHgwojn-G1QP9G4ocWbwnO4-QTw3RjETa-YeUjgQ40-AY0QyCD-qjji_jG3Od-MPNpqRuoH7C8mOuHHnAUndBUyHoSnal4-LsxQmnrdLbekLFQWOrKaSMZf4jCwgE-mS/w640-h334/messageImage_1763022874619.jpg)
+
+![示意圖]([https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWEZU_3kjOExrWNy8rz0CrsAphYY9VWsoxSmMizcrgdT6b8u9tolygbl8fIgkuNHgwojn-G1QP9G4ocWbwnO4-QTw3RjETa-YeUjgQ40-AY0QyCD-qjji_jG3Od-MPNpqRuoH7C8mOuHHnAUndBUyHoSnal4-LsxQmnrdLbekLFQWOrKaSMZf4jCwgE-mS/w640-h334/messageImage_1763022874619.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfe-OkzmT5M95ksyA4jHfE3oVByG4pp3hhYtusiwSEG5_wmzM6QXryMTR1Pp85SAFTveP6dziQbIgLHdsLyR6v7Ty9R3ny4wrzTtMOKTQZKoo_wXGhSwg_PEjChR39-KT1tEr2GigqoCcRzhpyCc1jLv8S4RlqQyasASv-8yWhyphenhyphenhG_RYMqgrvLypdYU_fB/w640-h420/2025-11-15_222832.png))
